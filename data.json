@@ -1,0 +1,13 @@
+{"devices": [
+    { 
+        "type": "temp_probe", 
+        "time": 0, 
+        "id": "28-0000075e21a4",
+        "value": 0, 
+        "location": "mash-tun-ctr"},
+    { 
+        "type": "temp_probe", 
+        "time": 0, 
+        "id": "28-03157189efff",
+        "value": 0, 
+        "location": "mash-tun-out"}]}
